@@ -13,8 +13,4 @@ A simple **Java-based Number Guessing Game** where the user tries to guess a ran
 ✅ Tracks the **player's score**  
 ✅ User-friendly **console interface**  
 
-## 🛠 Installation and Setup
-1. **Clone the repository** (or download the file manually):
-   ```sh
-   git clone https://github.com/your-username/Number-Game.git
-   cd Number-Game
+
