@@ -51,3 +51,9 @@ The program initializes with a default account balance.
 Users are presented with a menu to choose an action (e.g., check balance, deposit, withdraw).
 Based on the user’s choice, the program processes the request and displays the result.
 The menu repeats until the user chooses to exit.
+
+--- ATM Menu ---
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
