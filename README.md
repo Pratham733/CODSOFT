@@ -37,3 +37,17 @@ This Java program calculates a student's grade based on marks obtained in multip
 | 50% - 59%  | D     |
 | Below 50%  | F     |
 
+
+# ATM Interface in Java
+This project is a simple ATM Interface implemented in Java. It allows users to perform basic banking operations such as checking balance, depositing money, and withdrawing money through a console-based menu system.
+
+Features
+Check Balance: Display the user's current account balance.
+Deposit Money: Add a specified amount to the account balance.
+Withdraw Money: Deduct a specified amount from the balance if sufficient funds are available.
+Input Validation: Ensures only valid transactions are processed.
+How It Works
+The program initializes with a default account balance.
+Users are presented with a menu to choose an action (e.g., check balance, deposit, withdraw).
+Based on the user’s choice, the program processes the request and displays the result.
+The menu repeats until the user chooses to exit.
