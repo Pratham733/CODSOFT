@@ -16,6 +16,9 @@ A simple **Java-based Number Guessing Game** where the user tries to guess a ran
 
 # Student Grade Calculator
 
+![Screenshot 2025-02-10 093036](https://github.com/user-attachments/assets/478cd33a-026c-4ffb-a181-9134dbf9cd9d)
+
+
 ## Description
 This Java program calculates a student's grade based on marks obtained in multiple subjects. It takes input from the user, computes the total marks, average percentage, and assigns a grade accordingly.
 
@@ -40,6 +43,9 @@ This Java program calculates a student's grade based on marks obtained in multip
 
 # ATM Interface in Java
 This project is a simple ATM Interface implemented in Java. It allows users to perform basic banking operations such as checking balance, depositing money, and withdrawing money through a console-based menu system.
+
+![Screenshot 2025-02-14 091507](https://github.com/user-attachments/assets/83ee1ffb-a2d2-4158-b494-88a45f0e451f)
+
 
 Features
 Check Balance: Display the user's current account balance.
