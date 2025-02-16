@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game
+# Number Guessing Game
 
 A simple **Java-based Number Guessing Game** where the user tries to guess a randomly generated number within a limited number of attempts. The game provides feedback and tracks the user's score across multiple rounds.
 
@@ -65,7 +65,7 @@ The menu repeats until the user chooses to exit.
 4. Exit
 
 
-#Quiz Application with Timer
+# Quiz Application with Timer
 
 This is a simple command-line quiz application written in Java. It presents multiple-choice questions to users, limits the time allowed to answer each question, and calculates the final score based on correct answers.
 
