@@ -63,3 +63,25 @@ The menu repeats until the user chooses to exit.
 2. Deposit Money
 3. Withdraw Money
 4. Exit
+
+
+#Quiz Application with Timer
+
+This is a simple command-line quiz application written in Java. It presents multiple-choice questions to users, limits the time allowed to answer each question, and calculates the final score based on correct answers.
+
+![image](https://github.com/user-attachments/assets/5ac570ae-c26d-4270-9b81-ff9bea7ebfab)
+
+
+Features
+
+Quiz Questions and Options: Stores multiple questions with four options each.
+
+Timer: Limits the time to answer each question (default is 10 seconds).
+
+Question Display: Presents one question at a time.
+
+Answer Submission: Allows users to input their answer choice.
+
+Score Calculation: Tracks the user's score based on correct answers.
+
+Result Display: Shows the final score and the correct answers for incorrect responses.
