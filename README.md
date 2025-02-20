@@ -92,6 +92,10 @@ Result Display: Shows the final score and the correct answers for incorrect resp
 
 This is a simple **Student Course Registration System** implemented in Java. It allows students to register for courses, drop courses, and view registered courses.
 
+
+![image](https://github.com/user-attachments/assets/6ce4dae7-8a0a-4e77-9102-08ff4d93fe80)
+
+
 ## Features
 - **Course Database**: Store course information, including course code, title, description, capacity, and schedule.
 - **Student Database**: Store student information, including student ID, name, and registered courses.
