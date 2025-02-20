@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Course {
+public class Course {
     private String courseCode;
     private String title;
     private String description;
@@ -56,6 +56,10 @@ class Course {
         System.out.println("Available Slots: " + getAvailableSlots());
         System.out.println();
     }
+
+    public static void main(String[] args) {
+        StudentCourseRegistrationSystem.main(args);
+    }
 }
 
 class Student {
@@ -101,7 +105,7 @@ class Student {
     }
 }
 
-public class StudentCourseRegistrationSystem {
+class StudentCourseRegistrationSystem {
     private static List<Course> courseList = new ArrayList<>();
     private static List<Student> studentList = new ArrayList<>();
 
