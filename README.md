@@ -85,3 +85,41 @@ Answer Submission: Allows users to input their answer choice.
 Score Calculation: Tracks the user's score based on correct answers.
 
 Result Display: Shows the final score and the correct answers for incorrect responses.
+
+
+
+# Student Course Registration System
+
+This is a simple **Student Course Registration System** implemented in Java. It allows students to register for courses, drop courses, and view registered courses.
+
+## Features
+- **Course Database**: Store course information, including course code, title, description, capacity, and schedule.
+- **Student Database**: Store student information, including student ID, name, and registered courses.
+- **Course Listing**: Display available courses with details and available slots.
+- **Student Registration**: Allow students to register for courses from the available options.
+- **Course Removal**: Enable students to drop courses they have registered for.
+
+
+## Usage
+1. **Display Available Courses**: Lists all the courses with details like title, schedule, and available slots.
+2. **Register for a Course**: Allows the student to register for a course by entering the course code.
+3. **Drop a Course**: Enables the student to drop a registered course.
+4. **View Registered Courses**: Displays the list of courses the student has registered for.
+
+## Sample Courses
+- `CS101` - Introduction to Computer Science
+- `MA101` - Calculus I
+- `PH101` - Physics I
+
+## Example Interaction
+1. Select option `1` to view available courses.
+2. Register for a course by selecting option `2` and entering the course code.
+3. Drop a course using option `3`.
+4. View registered courses using option `4`.
+5. Exit the system by selecting option `5`.
+
+## Future Enhancements
+- Integration with a real database for persistence.
+- Support for multiple students.
+- Enhanced user interface.
+
